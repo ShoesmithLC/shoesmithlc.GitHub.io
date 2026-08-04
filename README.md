@@ -1,4 +1,8 @@
 # shoesmithlc.io
+![Shoesmith Life Cycle LLC banner](assets/shoesmith-small-banner.jpeg)
+
+
+
 
 Public site source for **Shoesmith Life Cycle LLC**, published via GitHub Pages (Jekyll, `jekyll-theme-minimal`) from the `RoundTable` branch.
 
