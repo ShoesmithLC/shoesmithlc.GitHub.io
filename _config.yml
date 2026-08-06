@@ -1,0 +1,10 @@
+title: Shoesmith Life Cycle LLC
+description: Public site and leadership directory for Shoesmith Life Cycle LLC — Where Tech Makes Sense.
+baseurl: ""
+url: "https://shoesmithlc.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+author:
+  name: Shoesmith Life Cycle LLC
+  email: robert@shoesmithlc.com
