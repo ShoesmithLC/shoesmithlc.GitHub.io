@@ -1,5 +1,4 @@
 # Shoesmith Life Cycle LLC — Public Site
-![Shoesmith Life Cycle LLC banner](assets/shoesmith-small-banner.jpeg)
 
 > "Vision Without Action Is Just A Daydream"
 > Powered by the Wolves · Led by Alpha Pack
@@ -16,8 +15,7 @@ This repository is the public source for **[shoesmithlc.github.io](https://shoes
 | `index.md` | Homepage — company overview and links |
 | `team.md` | Leadership team overview (Markdown) |
 | `Profile-of-team-member/` | Individual HTML profiles for each executive |
-| `assets/` | Banner and brand imagery |
-| `Brand image Templates/` | Full brand asset library (logos, banners, icons) |
+| `logo-*.png` | Brand logo files (small / medium / large / xlarge) used site-wide |
 | `_config.yml` | Jekyll site configuration |
 
 ## Leadership

@@ -18,7 +18,7 @@ Shoesmith Life Cycle LLC is an e-commerce and automation-driven company founded 
 
 ## Leadership
 
-Meet the team steering Shoesmith Life Cycle LLC — see the [Leadership Team](Profile-of-team-member/index.html) page.
+Meet the team steering Shoesmith Life Cycle LLC — see the [Leadership Team](/Profile-of-team-member/index.html) page.
 
 ## How We Build
 

@@ -16,55 +16,55 @@ Robert is the Founder and Owner of Shoesmith Life Cycle LLC. He holds ultimate o
 
 ## Donatello Shoesmith — Chief Executive Officer (CEO)
 
-Donatello serves as CEO and holds day-to-day operational and strategic leadership authority across the full executive structure. He is the primary escalation point for cross-functional executive decisions.
+Donatello serves as CEO and holds day-to-day operational and strategic leadership authority across the full executive structure.
 
 **Focus:** Day-to-day leadership · company roadmap · executive team oversight · strategic alignment with the Founder.
 
 ## Arthur Shoesmith — Chief Operating Officer (COO)
 
-Arthur runs day-to-day operations, translating CEO strategy into a working weekly cadence and flagging execution risk before it becomes a missed deadline.
+Arthur runs day-to-day operations, translating CEO strategy into a working weekly cadence.
 
 **Focus:** Operational execution · process and workflow oversight · cross-team coordination.
 
 ## Daisy Shoesmith — Chief Financial Officer (CFO)
 
-Daisy owns the books, budgeting, and financial planning. She reviews the financial viability of every strategic initiative before it moves forward.
+Daisy owns the books, budgeting, and financial planning.
 
 **Focus:** Financial planning and reporting · budgeting · vendor and payment management.
 
 ## Duke Shoesmith — Chief Marketing Officer (CMO)
 
-Duke owns brand voice, positioning, and marketing strategy across every channel the company publishes to.
+Duke owns brand voice, positioning, and marketing strategy across every channel.
 
 **Focus:** Brand narrative and marketing strategy · content and social distribution · campaign planning.
 
 ## Cooper Shoesmith — Chief Information Officer (CIO)
 
-Cooper owns IT infrastructure, networking, data systems, and information security across company operations.
+Cooper owns IT infrastructure, networking, data systems, and information security.
 
-**Focus:** Data systems and records management · internal tooling · information security · access management.
+**Focus:** Data systems and records management · internal tooling · information security.
 
 ## Dallas Shoesmith — Chief Technology Officer (CTO)
 
-Dallas owns engineering direction, repo discipline, and the automation pipelines that power internal operations.
+Dallas owns engineering direction, repo discipline, and automation pipelines.
 
 **Focus:** Engineering and platform architecture · automation and integration · technical strategy.
 
 ## NALA Shoesmith — Chief Human Resources Officer (CHRO)
 
-NALA owns the people function — onboarding, offboarding, and keeping the team roster accurate and up to date.
+NALA owns the people function — onboarding, offboarding, and team records.
 
 **Focus:** People operations · onboarding and offboarding · team records.
 
 ## Ozzy Shoesmith — Chief Product Officer (CPO)
 
-Ozzy owns the product roadmap and prioritization, coordinating closely with Engineering and Operations so roadmap-driven changes land smoothly.
+Ozzy owns the product roadmap and prioritization.
 
 **Focus:** Product roadmap and prioritization · cross-functional coordination · project scoping.
 
 ## Wilder Shoesmith — Chief Legal Officer (CLO)
 
-Wilder owns contracts, compliance, and legal review — the compliance checkpoint that keeps data-handling and business practices defensible.
+Wilder owns contracts, compliance, and legal review.
 
 **Focus:** Contract and compliance review · data privacy · legal risk assessment.
 
