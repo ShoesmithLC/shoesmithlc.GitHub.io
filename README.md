@@ -42,4 +42,34 @@ This repository is the public source for **[shoesmithlc.github.io](https://shoes
 
 ---
 
+## The Full Stack — All Repos
+
+### 🏢 Org: [Shoesmith-Life-Cycle-LLC](https://github.com/Shoesmith-Life-Cycle-LLC)
+
+| Repo | What it is | Status |
+|---|---|---|
+| [Wolves_Wiki](https://github.com/Shoesmith-Life-Cycle-LLC/Wolves_Wiki) | Internal employee wiki — canonical org chart and team records | 🟢 Active |
+| [WolfPack](https://github.com/Shoesmith-Life-Cycle-LLC/WolfPack) | Core company LLM package — MAX engine, executive content lanes, approval governance | 🟢 Active |
+| [WolfPack_Voice](https://github.com/Shoesmith-Life-Cycle-LLC/WolfPack_Voice) | How the company addresses the world — brand voice, moderation, publishing | 🟢 Active |
+| [WolfPack_LAW](https://github.com/Shoesmith-Life-Cycle-LLC/WolfPack_LAW) | Law, policy, governance, escalation, audit, and incident-response layer | 🟢 Active |
+| [Shoesmith_NOC](https://github.com/Shoesmith-Life-Cycle-LLC/Shoesmith_NOC) | Heart of the three vaults — exec Space instructions, AI personas, hero-squad rosters | 🟢 Active |
+| [Vault_Wolves](https://github.com/Shoesmith-Life-Cycle-LLC/Vault_Wolves) | Company ops home base — Obsidian vault mirror, team/protocol/project tracking | 🟢 Active |
+| [slack-ops-sync](https://github.com/Shoesmith-Life-Cycle-LLC/slack-ops-sync) | Control plane for approved GitHub → Slack operational updates | 🟡 Scaffold |
+| [dc-monthly-events-automation](https://github.com/Shoesmith-Life-Cycle-LLC/dc-monthly-events-automation) | DC/MD/VA monthly events automation pipeline | 🟢 Active |
+| [shoesmithlc-io-legacy](https://github.com/Shoesmith-Life-Cycle-LLC/shoesmithlc-io-legacy) | Deprecated — superseded by `ShoesmithLC/shoesmithlc.GitHub.io` | 🔴 Archived |
+
+### 👤 Personal: [ShoesmithLC](https://github.com/ShoesmithLC)
+
+| Repo | What it is | Status |
+|---|---|---|
+| [AlphaPACK](https://github.com/ShoesmithLC/AlphaPACK) | Robert's personal-side team package — founder personal ops and PA workflows | 🟢 Active |
+| [shoesmithlc.GitHub.io](https://github.com/ShoesmithLC/shoesmithlc.GitHub.io) | Canonical public company website | 🟢 Active |
+
+> Two org repos (`WolfPack-Eyes`, `Wolfpack_Musketeers`) exist under the
+> Shoesmith-Life-Cycle-LLC org but are unrelated third-party forks, not part of the
+> company stack — they're intentionally left out of this table.
+
+---
+*Maintained by Duke Shoesmith (CMO) · Last updated: 2026-08-08*
+
 *© 2026 Shoesmith Life Cycle LLC · Herndon, Virginia*
